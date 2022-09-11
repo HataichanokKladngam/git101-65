@@ -1,1 +1,1 @@
-add newfile
+add newfile newfile2
